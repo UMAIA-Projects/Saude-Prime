@@ -1,0 +1,15 @@
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'template/template_portal_medico.dart';
+export 'blockschedule.dart';
+export 'marcarconsulta.dart';
+export 'consulta.dart';
+export 'dashboard_medico.dart';
+export 'patientdata.dart';
+export 'profile.dart';
+export 'schedule.dart';
+export 'search.dart';
+export 'senddocument.dart';
+export 'virtualqueue.dart';
+export 'package:supabase_flutter/supabase_flutter.dart';
+export '../core/supabase.dart';

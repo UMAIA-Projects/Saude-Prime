@@ -1,0 +1,17 @@
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'paciente/editar_paciente_page.dart';
+export 'paciente/model/paciente_model.dart';
+export 'paciente/widgets/aba_consultas_list.dart';
+export 'paciente/widgets/aba_dados_form.dart';
+export 'paciente/widgets/aba_dados_view.dart';
+export 'template/template_portal_recepcao.dart';
+export 'agendamentos_page.dart';
+export 'dashboard_recepcao.dart';
+export 'definicoes_page.dart';
+export 'fila_virtual_page.dart';
+export 'gestao_pacientes_page.dart';
+export 'novo_paciente_page.dart';
+export 'package:supabase_flutter/supabase_flutter.dart';
+export '../core/supabase.dart';
+export 'package:uuid/uuid.dart';

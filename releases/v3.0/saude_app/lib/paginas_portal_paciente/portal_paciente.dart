@@ -1,0 +1,24 @@
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'package:calendar_date_picker2/calendar_date_picker2.dart'
+show CalendarDatePicker2, CalendarDatePicker2Config, CalendarDatePicker2Type;
+export 'template/template_portal_paciente.dart';
+export 'dashboard_paciente.dart';
+export 'appointment_details_page.dart';
+export 'history_page.dart';
+export 'my_appointments_page.dart';
+export 'my_documents_page.dart';
+export 'notifications_page.dart';
+export 'patient_edit_profile_page.dart';
+export 'patient_profile_page.dart';
+export 'package:uuid/uuid.dart';
+export 'reschedule_appointment_page.dart';
+export 'schedule_appointment_1_page.dart';
+export 'schedule_appointment_2_page.dart';
+export 'schedule_appointment_3_page.dart';
+export 'virtual_queue_page.dart';
+export 'package:supabase_flutter/supabase_flutter.dart';
+export '../core/supabase.dart';
+export 'package:saude_app/paginas_fluxo_publico/fluxo_publico.dart';
+export 'dart:async';
+export 'package:url_launcher/url_launcher.dart';

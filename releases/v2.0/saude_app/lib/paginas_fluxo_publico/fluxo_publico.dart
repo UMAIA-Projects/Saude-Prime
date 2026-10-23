@@ -1,0 +1,13 @@
+export 'login_page.dart';
+export 'create_acc_1_page.dart';
+export 'password_recovery_page.dart';
+export 'template/template_fluxo_publico.dart';
+export 'template/template_fluxo_publico_2.dart';
+export 'landing_page.dart';
+export 'change_password.dart';
+export 'terms_conditions_page.dart';
+export 'create_acc_2_page.dart';
+export 'package:supabase_flutter/supabase_flutter.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export '../core/supabase.dart';
